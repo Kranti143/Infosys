@@ -1,6 +1,0 @@
-infosys
-tcs
-cognizant
-wipro
-hcl
-google
